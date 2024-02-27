@@ -1,1 +1,1 @@
-# getworkshop-27-02-24-vyshnavi
+# gitworkshop-27-02-24-vyshnavi
